@@ -232,5 +232,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  Built with ❤️ for the Healthcare x AI Hackathon
+  Built with ❤️ for the Caretech Healthcare x AI Hackathon
 </p>
